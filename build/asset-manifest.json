@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GYM_Website/static/css/main.7859c654.css",
+    "main.js": "/GYM_Website/static/js/main.b673794a.js",
+    "static/media/577.jpg": "/GYM_Website/static/media/577.1ecb7eed84b12ca51deb.jpg",
+    "static/media/portfolio-img8.jpg": "/GYM_Website/static/media/portfolio-img8.8a31879f28b3c724f267.jpg",
+    "static/media/banner-img-1.png": "/GYM_Website/static/media/banner-img-1.af9004371470255b54f7.png",
+    "static/media/portfolio-img6.jpg": "/GYM_Website/static/media/portfolio-img6.36e06fa77a376d15b469.jpg",
+    "static/media/portfolio-img3.jpg": "/GYM_Website/static/media/portfolio-img3.8d57ba70a4562dd16fb7.jpg",
+    "static/media/yoga-pose.png": "/GYM_Website/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/GYM_Website/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/GYM_Website/static/media/lunges.52e48615ce527a095bcf.png",
+    "static/media/slick.svg": "/GYM_Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/GYM_Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/GYM_Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/GYM_Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/GYM_Website/index.html",
+    "main.7859c654.css.map": "/GYM_Website/static/css/main.7859c654.css.map",
+    "main.b673794a.js.map": "/GYM_Website/static/js/main.b673794a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7859c654.css",
+    "static/js/main.b673794a.js"
+  ]
+}

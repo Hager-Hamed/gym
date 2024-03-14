@@ -1,0 +1,62 @@
+.schedule{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.schedule .header{
+    text-align: center;
+}
+
+.schedule .header h2{
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.schedule .header span {
+    color: var(--primary-color);
+    letter-spacing: 0.1px;
+}
+
+.schedule .header p{
+    color: gray;
+}
+
+
+.schedule .content{
+    margin-top: 50px;
+    background: var(--bg-gradient);
+    padding: 40px 40px;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.schedule .row {
+    margin: auto;
+}
+
+
+.schedule .col-content{
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+
+.schedule .col-content span{
+    width: 20%;
+    height: 20%; 
+    border-radius: 5px;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.schedule .col-content h3{
+    font-size: 1rem;
+}
+
+.schedule .col-content p{
+    font-size: 0.7rem;
+}

@@ -1,0 +1,89 @@
+.pricing{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.pricing .header{
+    text-align: center;
+}
+
+.pricing .header h2{
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.pricing .header span {
+    color: var(--primary-color);
+    letter-spacing: 0.1px;
+}
+
+.pricing .header p{
+    color: gray;
+}
+
+.pricing .content {
+    background-color: #fff;
+
+}
+
+.pricing .content .item {
+    box-shadow: -3px 3px 8px -1px #d3cef2; 
+    border-radius: 5px;
+}
+
+.pricing .content .item .high {
+    position: relative;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 10px ;
+    border-bottom: 1px solid rgb(197, 196, 196);
+}
+
+
+
+.pricing .content .item .high h2{
+    font-size: 1.8rem;
+    text-transform: capitalize;
+}
+
+.pricing .content .item .high h3{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.pricing .content .item .high h3 span{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+
+
+.pricing .content .item .bdy{
+    padding: 20px;
+}
+
+.pricing .content .item .bdy ul{
+    list-style-type: disc;
+    font-size: 1.1rem;
+}
+
+.pricing .content .item .bdy ul li{
+    line-height: 2rem;
+    color: gray;
+}
+
+.join-btn{
+    border: none;
+    outline: none;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top:50px ;
+    
+}
+
+.high-perfect {
+    background-color: var(--primary-color);
+}
